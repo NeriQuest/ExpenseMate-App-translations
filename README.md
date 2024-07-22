@@ -2,7 +2,7 @@
 
 # App Translations
 
-This repository contains the translation files for the [Your App Name] Flutter application. We welcome contributions to help translate the app into different languages.
+This repository contains the translation files for the ExpenseMate Flutter application. We welcome contributions to help translate the app into different languages.
 
 ## Folder Structure
 
@@ -12,12 +12,9 @@ This repository contains the translation files for the [Your App Name] Flutter a
   - `intl_fr.arb`
   - ...
 
-## Contributing
+## Contributing to translations
 
-Please see `CONTRIBUTING.md` for guidelines on how to contribute translations.
-
-
-# Contributing to Translations
+Please see the below guidelines on how to contribute translations.
 
 ## How to Contribute
 
