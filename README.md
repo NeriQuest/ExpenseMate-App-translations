@@ -8,8 +8,11 @@ This repository contains the translation files for the ExpenseMate Flutter appli
 
 - `l10n/`
   - `intl_en.arb`
-  - `intl_es.arb`
-  - `intl_fr.arb`
+  - `intl_hi.arb`
+  - `intl_ml.arb`
+  - `intl_ta.arb`
+  - `intl_te.arb`
+  - `intl_kn.arb`
   - ...
 
 ## Contributing to translations
@@ -24,8 +27,8 @@ Please see the below guidelines on how to contribute translations.
 2. **Clone the Repository**:
     - Clone your forked repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/app-translations.git
-    cd app-translations
+    git clone https://github.com/NeriQuest/ExpenseMate-App-translations.git
+    cd l10n
     ```
 
 3. **Create a New Branch**:
